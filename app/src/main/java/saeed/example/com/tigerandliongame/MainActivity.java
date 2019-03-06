@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
     boolean isOnclickAttributeAble = true;
     int counter = 0;
     int theSecondTime = 0;
+    int theThirdTime ;
 
     enum ThePlayer
     {
