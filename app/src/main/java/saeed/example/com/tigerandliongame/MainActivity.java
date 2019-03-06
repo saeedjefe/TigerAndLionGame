@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
     int counter = 0;
     int theSecondTime = 0;
     int theThirdTime ;
+    int theFourthTime;
 
     enum ThePlayer
     {
