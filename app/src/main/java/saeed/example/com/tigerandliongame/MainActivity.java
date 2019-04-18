@@ -277,4 +277,9 @@ public class MainActivity extends AppCompatActivity {
         image.setImageDrawable( null );
 
     }
+
+    private void gitHubTest()
+    {
+        //
+    }
 }
